@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Ultimate Chess PDF"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/toc.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  OutputFolder="C:\Users\Eddie McHam\Documents\emcham.io\docs\projects\flare\UltimateChess\Output\PDF"
+  GetLatestBeforeCompile="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+</CatapultTarget>
