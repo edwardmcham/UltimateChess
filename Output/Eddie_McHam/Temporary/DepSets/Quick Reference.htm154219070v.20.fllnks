@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
   FileClass="_Skins_HTML5___Side_Navigation"
-  FileTitle="Sniper Rules"
+  FileTitle="Quick Reference"
   FileLanguage="en-US"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
@@ -51,13 +51,11 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Images/evil_joker_card_238x362.jpg" />
+      Url="Content/Core Rule The Card Battle.htm" />
     <Link
-      Url="Content/Resources/Images/armageddon.jpg" />
+      Url="Content/Dice Variant.htm" />
     <Link
-      Url="Content/King Rules.htm" />
-    <Link
-      Url="Content/Win Conditions.htm" />
+      Url="Content/Overview.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -103,17 +101,15 @@
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
     <Link
-      Url="Content/Resources/Images/evil_joker_card_238x362.jpg" />
+      Url="Content/Core Rule The Card Battle.htm#armageddon-both-players-play-a-sniper" />
     <Link
-      Url="Content/Resources/Images/armageddon.jpg" />
+      Url="Content/Dice Variant.htm" />
     <Link
-      Url="Content/King Rules.htm" />
-    <Link
-      Url="Content/Win Conditions.htm" />
+      Url="Content/Overview.htm" />
   </LongLinks>
   <Anchors>
     <Anchor
-      Name="kanchor4" />
+      Name="kanchor2" />
   </Anchors>
   <Keywords />
   <Concepts />

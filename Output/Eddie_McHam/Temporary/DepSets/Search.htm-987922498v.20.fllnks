@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultFileLinkSet
-  FileClass="_Skins_HTML5___Side_Navigation"
-  FileTitle="Sniper Rules"
+  FileClass="searchTopic templateTopic _Skins_HTML5___Side_Navigation"
   FileLanguage="en-US"
   FileSearchable="true"
   OnlyLocalStylesheets="false"
@@ -50,14 +49,6 @@
       Url="Resources/Scripts/plugins.min.js" />
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
-    <Link
-      Url="Content/Resources/Images/evil_joker_card_238x362.jpg" />
-    <Link
-      Url="Content/Resources/Images/armageddon.jpg" />
-    <Link
-      Url="Content/King Rules.htm" />
-    <Link
-      Url="Content/Win Conditions.htm" />
   </Links>
   <LongLinks>
     <Link
@@ -102,19 +93,8 @@
       Url="Resources/Scripts/plugins.min.js" />
     <Link
       Url="Resources/Scripts/MadCapAll.js" />
-    <Link
-      Url="Content/Resources/Images/evil_joker_card_238x362.jpg" />
-    <Link
-      Url="Content/Resources/Images/armageddon.jpg" />
-    <Link
-      Url="Content/King Rules.htm" />
-    <Link
-      Url="Content/Win Conditions.htm" />
   </LongLinks>
-  <Anchors>
-    <Anchor
-      Name="kanchor4" />
-  </Anchors>
+  <Anchors />
   <Keywords />
   <Concepts />
   <ConceptControlNames />
