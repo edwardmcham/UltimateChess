@@ -8,7 +8,8 @@
   GlossaryTermConversion="marked"
   DefaultUrl="/Content/Overview.htm"
   MasterToc="/Project/TOCs/toc.fltoc"
-  GetLatestBeforeCompile="true">
+  GetLatestBeforeCompile="true"
+  Skin="/Project/Skins/HTML5 - Side Navigation.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
